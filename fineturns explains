@@ -9,7 +9,7 @@ controlnet控制网(动作控制)
 controltype控制类型(算法)
 preprocessor预处理(模板)
 samplingsteps采样步数20
-CFG国籍
+CFG
 seed种子-1(随机)
 model模型(喜好)
 embeddings嵌入(风格)
