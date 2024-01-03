@@ -1,5 +1,5 @@
-# Stable Diffusion web UI
-A browser interface based on Gradio library for Stable Diffusion.
+# Stable Diffusion web UI Q
+A browser interface based on Gradio library for Stable Diffusion with fineturns.
 
 ![](screenshot.png)
 
